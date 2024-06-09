@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt
+https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt
